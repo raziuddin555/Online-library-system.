@@ -23,7 +23,7 @@ A React-based Online Library System that allows users to browse books, search bo
 ### 1. Clone the repository
 
 ```bash
-git 
+git https://github.com/raziuddin555/Online-library-system./tree/main/online-library-system 
 ```
 
 ### 2. Open the project folder
